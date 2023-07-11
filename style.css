@@ -1,0 +1,14 @@
+#score{
+    font-size:medium;
+    float: left;
+    margin-left: 20px;
+}
+#timer{
+    font-size:medium;
+    float: right;
+    margin-right: 20px;
+}
+#Sketch_to_be_drawn{
+color: mediumaquamarine;
+font-size: medium;
+}
